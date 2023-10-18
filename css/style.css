@@ -32,7 +32,7 @@ border-radius: 12px 12px 0px 0px;
 	font-family: 'Devonshire', cursive;
 }
 
-#header a#logo1 img {
+#header a#main img {
   margin-top: 20px;
   margin-left: 20px;
   margin-bottom: 20px;
@@ -127,4 +127,8 @@ h2 strong {
 b {
   font-weight: 900;
   font-size: 48px;
+}
+
+iframe {
+	border : 0px;
 }
